@@ -1,6 +1,6 @@
 # EXP---2
-## NAME: MAHALAKSHMI MRIDULA
-## REG NO: 212224220056
+## NAME: NITHILA
+## REG NO: 212224040224
 ## AIM:
 To design basic mobile and web layouts for an existing case study by applying Gestalt principles, UI design patterns, and usability principles, while creating a consistent brand identity through a logo using Canva.
 ## PROCEDURE:
